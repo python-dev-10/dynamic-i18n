@@ -1,7 +1,6 @@
 # dynamic-i18n
 
 [![PyPI version](https://badge.fury.io/py/dynamic-i18n.svg)](https://pypi.org/project/dynamic-i18n/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dynamic-i18n)
 
 ## Introduction
 dynamic-i18n is a python package that helps to flatten complex JSON files into a simple and accessible format. It also provides functionality to modify the text of specific properties and get an object that only contains properties of a specified language.
@@ -84,3 +83,5 @@ print(data_en._fields)
 
 # Conclusion
 dynamic-i18n provides a simple and convenient way to access and manipulate complex JSON files for internationalization purposes. Give it a try and see how it can help you in your next project.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dynamic-i18n)
