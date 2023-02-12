@@ -12,14 +12,13 @@ DESCRIPTION = 'A basic dynamic class to support I18N translation from JSON'
 project_urls = {
   'Link 1': 'https://mygreatsite.com',
 }
-
-# Setting up
 setup(
     name="dynamic_i18n",
     version=VERSION,
     author="Jeferson-Peter (Jeferson Peter)",
     author_email="jeferson.peter@pm.me",
     description=DESCRIPTION,
+    url='https://github.com/Jeferson-Peter/dynamic-i18n',
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
@@ -35,3 +34,5 @@ setup(
         "Operating System :: Microsoft :: Windows",
     ]
 )
+
+# Setting up
